@@ -6,6 +6,8 @@ date: 2021-09-14T16:14:54.602Z
 tags:
   - soups
 ---
+![Pot of soup](/images/pot-4x.png)
+
 ## Ingredients (serves 2)
 
 * 100g Red Lentils
