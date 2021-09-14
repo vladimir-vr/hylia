@@ -1,16 +1,28 @@
 {
   "items": [
     {
+      "text": "Breakfast",
+      "url": "/tags/breakfast/"
+    },
+    {
       "text": "Soups",
       "url": "/tags/soups/"
     },
     {
-      "url": "/tags/breads/",
-      "text": "Breads"
+      "text": "Mains",
+      "url": "/tags/mains/"
     },
     {
       "text": "Desserts",
       "url": "/tags/desserts/"
+    },
+    {
+      "url": "/tags/bread/",
+      "text": "Bread"
+    },
+    {
+      "text": "Snacks",
+      "url": "/tags/snacks/"
     }
   ]
 }
