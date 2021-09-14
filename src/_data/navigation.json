@@ -9,12 +9,16 @@
       "url": "/tags/soups/"
     },
     {
-      "url": "/tags/breads/",
-      "text": "Breads"
+      "text": "Mains",
+      "url": "/tags/mains/"
     },
     {
       "text": "Desserts",
       "url": "/tags/desserts/"
+    },
+    {
+      "url": "/tags/bread/",
+      "text": "Bread"
     },
     {
       "text": "Snacks",
