@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Schestruț în bucătărie
+title: La Schestruț acasă
 metaDesc: ""
 postsHeading: Latest recipes
 archiveButtonText: See all recipes
