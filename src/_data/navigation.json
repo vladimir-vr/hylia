@@ -6,6 +6,18 @@
       "external": false
     },
     {
+      "text": "Tag1",
+      "url": "/tags/tag1/"
+    },
+    {
+      "url": "/tags/tag2/",
+      "text": "Tag2"
+    },
+    {
+      "text": "Tag3",
+      "url": "/tags/tag3/"
+    },
+    {
       "text": "Example Contact Page",
       "url": "/contact",
       "external": false
