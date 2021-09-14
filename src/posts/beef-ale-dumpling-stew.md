@@ -28,8 +28,6 @@ tags:
 * 75g suet or butter
 * 1 tbsp wholegrain mustard
 
-<!--StartFragment-->
-
 ## Instructions
 
 1. Preheat the oven to 150°C. Season the beef with salt and pepper and then dust in some flour.
