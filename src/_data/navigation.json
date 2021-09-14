@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "text": "Breakfast",
+      "url": "/tags/breakfast/"
+    },
+    {
       "text": "Soups",
       "url": "/tags/soups/"
     },
@@ -11,6 +15,10 @@
     {
       "text": "Desserts",
       "url": "/tags/desserts/"
+    },
+    {
+      "text": "Snacks",
+      "url": "/tags/snacks/"
     }
   ]
 }
