@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Jazzy and her giant recipes
-metaDesc: I make very good food.
+title: Schestruț în bucătărie
+metaDesc: ""
 postsHeading: Latest recipes
-archiveButtonText: See all posts
+archiveButtonText: See all recipes
 socialImage: ""
 ---
-This is the greatest website ever.
+împărtășind cele mai bune rețete din lume...
