@@ -1,16 +1,16 @@
 {
   "items": [
     {
-      "text": "Tag1",
-      "url": "/tags/tag1/"
+      "text": "Soups",
+      "url": "/tags/soups/"
     },
     {
-      "url": "/tags/tag2/",
-      "text": "Tag2"
+      "url": "/tags/breads/",
+      "text": "Breads"
     },
     {
-      "text": "Tag3",
-      "url": "/tags/tag3/"
+      "text": "Desserts",
+      "url": "/tags/desserts/"
     },
     {
       "text": "Example Contact Page",
