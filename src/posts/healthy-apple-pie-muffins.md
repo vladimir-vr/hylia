@@ -2,6 +2,8 @@
 layout: layouts/post.njk
 title: Healthy Apple Pie Muffins
 date: 2021-09-19T10:12:56.819Z
+tags:
+  - desserts
 ---
 ## Ingredients
 
