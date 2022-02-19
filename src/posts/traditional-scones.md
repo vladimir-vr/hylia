@@ -5,7 +5,7 @@ date: 2021-09-14T17:47:27.553Z
 tags:
   - desserts
 ---
-![](/images/screenshot-103-.png "Scones")
+![Scones](/images/screenshot-103-.png "Scones")
 
 ## Ingredients
 
